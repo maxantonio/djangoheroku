@@ -3,4 +3,4 @@ correctamente en heroku.
 
 Para lograr que la applicación tenga un nombre único es necesario correr el comando 
 
-> python manage.py rename [new name]
+> python manage.py rename new_name
