@@ -11,4 +11,4 @@ django-heroku = "*"
 gunicorn = "==19.7.1"
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"
