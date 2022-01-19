@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-django = "==3.0.11"
+django = "==2.1.5"
 django-heroku = "*"
 gunicorn = "==19.7.1"
 
